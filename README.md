@@ -69,8 +69,6 @@ Source: https://www.kaggle.com/datasets/ivnlee/solar-energy-production
 
 ## Project Status
 
-## Project Status
-
 **Status: Completed**
 
 The Solar Energy Production Analysis project has been successfully completed, including:
